@@ -1,2 +1,2 @@
-# front-end
-Oefening 4
+# Front-end development
+School project - Hogeschool Rotterdam (Creative media game technology)
